@@ -21,7 +21,7 @@ Usage
       create      Create a new thin container or a thick container if -T|--thick option specified.
       destroy     Destroy a stopped container or a FreeBSD release.
       edit        Edit container configuration files (advanced).
-      export      Exports a specified container.
+      export      Exports a specified container. Use -s to shut down jail before export.
       help        Help about any command.
       htop        Interactive process viewer (requires htop).
       import      Import a specified container.
